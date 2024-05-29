@@ -1,0 +1,74 @@
+[
+      {
+        "task_id": 1,
+        "user_id": 1,
+        "course": "Computer Science",
+        "task_description": "Complete assignment on algorithms",
+        "due_date": "2020-09-15"
+      },
+      {
+        "task_id": 2,
+        "user_id": 2,
+        "course": "Data Science",
+        "task_description": "Prepare presentation on machine learning models",
+        "due_date": "2020-09-20"
+      },
+      {
+        "task_id": 3,
+        "user_id": 3,
+        "course": "Mechanical Engineering",
+        "task_description": "Submit project proposal on renewable energy",
+        "due_date": "2020-09-25"
+      },
+      {
+        "task_id": 4,
+        "user_id": 4,
+        "course": "Electrical Engineering",
+        "task_description": "Study materials on digital circuits",
+        "due_date": "2020-09-30"
+      },
+      {
+        "task_id": 5,
+        "user_id": 5,
+        "course": "Business Administration",
+        "task_description": "Research on market trends",
+        "due_date": "2020-10-05"
+      },
+      {
+        "task_id": 6,
+        "user_id": 6,
+        "course": "Civil Engineering",
+        "task_description": "Prepare for upcoming quiz on structural analysis",
+        "due_date": "2020-10-10"
+      },
+      {
+        "task_id": 7,
+        "user_id": 7,
+        "course": "Biotechnology",
+        "task_description": "Review notes on genetic engineering",
+        "due_date": "2020-10-15"
+      },
+      {
+        "task_id": 8,
+        "user_id": 8,
+        "course": "Environmental Science",
+        "task_description": "Write research paper on climate change mitigation",
+        "due_date": "2020-10-20"
+      },
+      {
+        "task_id": 9,
+        "user_id": 9,
+        "course": "Psychology",
+        "task_description": "Analyze case studies on cognitive psychology",
+        "due_date": "2020-10-25"
+      },
+      {
+        "task_id": 10,
+        "user_id": 10,
+        "course": "Finance",
+        "task_description": "Prepare financial report for company analysis",
+        "due_date": "2020-10-30"
+      }
+    ]
+  
+  

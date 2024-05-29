@@ -1,0 +1,66 @@
+[
+    
+      {
+        "user_id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "course": "Computer Science"
+      },
+      {
+        "user_id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "course": "Data Science"
+      },
+      {
+        "user_id": 3,
+        "name": "Carol Williams",
+        "email": "carol.williams@example.com",
+        "course": "Mechanical Engineering"
+      },
+      {
+        "user_id": 4,
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "course": "Electrical Engineering"
+      },
+      {
+        "user_id": 5,
+        "name": "Eva Davis",
+        "email": "eva.davis@example.com",
+        "course": "Business Administration"
+      },
+      {
+        "user_id": 6,
+        "name": "Frank Wilson",
+        "email": "frank.wilson@example.com",
+        "course": "Civil Engineering"
+      },
+      {
+        "user_id": 7,
+        "name": "Grace Lee",
+        "email": "grace.lee@example.com",
+        "course": "Biotechnology"
+      },
+      {
+        "user_id": 8,
+        "name": "Henry Clark",
+        "email": "henry.clark@example.com",
+        "course": "Environmental Science"
+      },
+      {
+        "user_id": 9,
+        "name": "Isabella Martinez",
+        "email": "isabella.martinez@example.com",
+        "course": "Psychology"
+      },
+      {
+        "user_id": 10,
+        "name": "Jack Lewis",
+        "email": "jack.lewis@example.com",
+        "course": "Finance"
+      }
+    
+]
+  
+  

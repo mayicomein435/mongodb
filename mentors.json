@@ -1,0 +1,62 @@
+ [
+    {
+      "mentor_id": 1,
+      "name": "Dr. Smith",
+      "specialization": "Computer Science",
+      "student_count": 15
+    },
+    {
+      "mentor_id": 2,
+      "name": "Prof. Johnson",
+      "specialization": "Data Science",
+      "student_count": 12
+    },
+    {
+      "mentor_id": 3,
+      "name": "Dr. Williams",
+      "specialization": "Mechanical Engineering",
+      "student_count": 10
+    },
+    {
+      "mentor_id": 4,
+      "name": "Prof. Brown",
+      "specialization": "Electrical Engineering",
+      "student_count": 8
+    },
+    {
+      "mentor_id": 5,
+      "name": "Dr. Davis",
+      "specialization": "Business Administration",
+      "student_count": 20
+    },
+    {
+      "mentor_id": 6,
+      "name": "Prof. Wilson",
+      "specialization": "Civil Engineering",
+      "student_count": 18
+    },
+    {
+      "mentor_id": 7,
+      "name": "Dr. Lee",
+      "specialization": "Biotechnology",
+      "student_count": 14
+    },
+    {
+      "mentor_id": 8,
+      "name": "Prof. Clark",
+      "specialization": "Environmental Science",
+      "student_count": 16
+    },
+    {
+      "mentor_id": 9,
+      "name": "Dr. Martinez",
+      "specialization": "Psychology",
+      "student_count": 22
+    },
+    {
+      "mentor_id": 10,
+      "name": "Prof. Lewis",
+      "specialization": "Finance",
+      "student_count": 25
+    }
+  ]

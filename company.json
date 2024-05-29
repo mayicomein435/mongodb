@@ -1,0 +1,52 @@
+[
+    {
+      "companyName": "Tech Innovators Inc.",
+      "position": "Software Engineer",
+      "location": "San Francisco, CA",
+      "driveDate": "2023-10-05T09:00:00Z",
+      "eligible_courses": ["Computer Science", "Data Science"]
+    },
+    {
+      "companyName": "Green Energy Solutions",
+      "position": "Data Analyst",
+      "location": "New York, NY",
+      "driveDate": "2023-10-12T10:00:00Z",
+      "eligible_courses": ["Environmental Science"]
+    },
+    {
+      "companyName": "HealthTech Corp.",
+      "position": "Product Manager",
+      "location": "Chicago, IL",
+      "driveDate":  "2023-10-15T11:00:00Z",
+      "eligible_courses": ["Biotechnology"]
+    },
+    {
+      "companyName": "FinTech Unlimited",
+      "position": "Backend Developer",
+      "location": "Boston, MA",
+      "driveDate":  "2023-10-20T14:00:00Z",
+      "eligible_courses": ["Finance", "Business Administration"]
+    },
+    {
+      "companyName": "EduTech Global",
+      "position": "Frontend Developer",
+      "location": "Austin, TX",
+      "driveDate": "2023-10-25T09:30:00Z",
+      "eligible_courses": ["Psychology", "Business Administration"]
+    },
+    {
+      "companyName": "Logistics Masters",
+      "position": "Operations Manager",
+      "location": "Los Angeles, CA",
+      "driveDate": "2023-10-28T13:00:00Z",
+      "eligible_courses": ["Mechanical Engineering", "Electrical Engineering"]
+    },
+    {
+      "companyName": "CloudNet Services",
+      "position": "DevOps Engineer",
+      "location": "Seattle, WA",
+      "driveDate": "2023-10-30T15:00:00Z",
+      "eligible_courses": ["Computer Science", "Data Science"]
+    }
+  ]
+  

@@ -1,0 +1,122 @@
+ [
+    {
+      "user_id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "course": "Computer Science",
+      "problems_solved": {
+        "basic": 120,
+        "string": 85,
+        "array": 150,
+        "numbers": 90
+      }
+    },
+    {
+      "user_id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "course": "Data Science",
+      "problems_solved": {
+        "basic": 100,
+        "string": 75,
+        "array": 130,
+        "numbers": 95
+      }
+    },
+    {
+      "user_id": 3,
+      "name": "Carol Williams",
+      "email": "carol.williams@example.com",
+      "course": "Mechanical Engineering",
+      "problems_solved": {
+        "basic": 110,
+        "string": 65,
+        "array": 140,
+        "numbers": 85
+      }
+    },
+    {
+      "user_id": 4,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "course": "Electrical Engineering",
+      "problems_solved": {
+        "basic": 130,
+        "string": 80,
+        "array": 160,
+        "numbers": 100
+      }
+    },
+    {
+      "user_id": 5,
+      "name": "Eva Davis",
+      "email": "eva.davis@example.com",
+      "course": "Business Administration",
+      "problems_solved": {
+        "basic": 105,
+        "string": 70,
+        "array": 125,
+        "numbers": 75
+      }
+    },
+    {
+      "user_id": 6,
+      "name": "Frank Wilson",
+      "email": "frank.wilson@example.com",
+      "course": "Civil Engineering",
+      "problems_solved": {
+        "basic": 115,
+        "string": 60,
+        "array": 135,
+        "numbers": 80
+      }
+    },
+    {
+      "user_id": 7,
+      "name": "Grace Lee",
+      "email": "grace.lee@example.com",
+      "course": "Biotechnology",
+      "problems_solved": {
+        "basic": 95,
+        "string": 85,
+        "array": 145,
+        "numbers": 90
+      }
+    },
+    {
+      "user_id": 8,
+      "name": "Henry Clark",
+      "email": "henry.clark@example.com",
+      "course": "Environmental Science",
+      "problems_solved": {
+        "basic": 125,
+        "string": 95,
+        "array": 155,
+        "numbers": 110
+      }
+    },
+    {
+      "user_id": 9,
+      "name": "Isabella Martinez",
+      "email": "isabella.martinez@example.com",
+      "course": "Psychology",
+      "problems_solved": {
+        "basic": 105,
+        "string": 75,
+        "array": 125,
+        "numbers": 80
+      }
+    },
+    {
+      "user_id": 10,
+      "name": "Jack Lewis",
+      "email": "jack.lewis@example.com",
+      "course": "Finance",
+      "problems_solved": {
+        "basic": 100,
+        "string": 80,
+        "array": 120,
+        "numbers": 85
+      }
+    }
+  ]
